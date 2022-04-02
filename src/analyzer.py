@@ -56,7 +56,6 @@ class Analyzer():
             [symbols, percentages_series], axis=1)
 
         return percent_allocation_df
-        pass
 
 
 class WeightsFileGenerator():
